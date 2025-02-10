@@ -17,8 +17,6 @@ The dataset contains the following key attributes:
 - CustomerID: Unique identifier for each customer
 - Country: Customer's country of residence
 
-## Data Processing and Analysis
-
 ### Data Cleaning and Preprocessing
 
 1. Filtered data to include only UK transactions
